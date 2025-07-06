@@ -4,7 +4,7 @@ import joblib
 app = Flask(__name__)
 
 # Load your pre-trained model (replace 'spam_model.joblib' with your actual model file)
-model = joblib.load('logistic_spam_model.joblib')
+model = joblib.load('models/logistic_spam_model.joblib')
 
 @app.route('/')
 def home():
