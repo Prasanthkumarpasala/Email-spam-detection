@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📧 Email Spam Detection API
 
 This project is a Flask-based REST API for detecting spam emails using a Machine Learning model.
@@ -22,3 +23,6 @@ This project is a Flask-based REST API for detecting spam emails using a Machine
 ```bash
 git clone git@github.com:your-username/email-spam-detection.git
 cd email-spam-detection
+=======
+# Email-spam-detection
+>>>>>>> 4ea6690fb99c715796aeab077bdcdd0192519674
